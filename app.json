@@ -2,6 +2,7 @@
   "expo": {
     "name": "events-app",
     "slug": "events-app",
+    "owner": "jeelgajera32",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +10,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0f1625"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.jeelgajera32.eventsapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
